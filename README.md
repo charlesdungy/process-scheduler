@@ -1,6 +1,8 @@
 # Process Scheduler
 
-This program simulates a scheduler scheduling a set of jobs on a uniprocessor. The program implements three scheduling algorithms: First Come First Serve, Shortest Process Next, and Highest Response Ratio Next.     
+This program simulates a scheduler scheduling a set of jobs on a uniprocessor. The program implements three scheduling algorithms: First Come First Serve, Shortest Process Next, and Highest Response Ratio Next. 
+
+<img src="https://github.com/charlesdungy/process-scheduler/blob/main/plots/directory_tree.png?raw=true" width="415"/>
 
 ## Description
 
