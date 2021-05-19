@@ -20,7 +20,11 @@ Excluding the Python implementation, this was a school project. No source files 
 
 ## Visualizations
 
-Python portion not complete yet.
+![FCFS](https://github.com/charlesdungy/process-scheduler/blob/main/plots/first_come_first_serve.png?raw=true)
+
+![SPN](https://github.com/charlesdungy/process-scheduler/blob/main/plots/shortest_process_next.png?raw=true)
+
+![HRRN](https://github.com/charlesdungy/process-scheduler/blob/main/plots/highest_response_ratio_next.png?raw=true)
 
 ## License
 
