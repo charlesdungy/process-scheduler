@@ -12,13 +12,15 @@ A Java program reads job information from an input file (name, arrival, service)
 
 **Shortest Process Next** selects jobs based on their expected runtime (service time). So as jobs arrive for execution and the processor is busy, jobs go into a priority queue. Then once the processor is ready, the next job executes.
 
-**Highest Response Ratio Next** selects jobs based on their normalized turnaround time. So as jobs arrive for execution and the processor is busy, they are placed into a list. Once the processor is ready, a calculation on each job in the list is performed. The calculation is the time spent waiting plus total runtime divided by total runtime. The job with the highest turnaround time, runs next.
+**Highest Response Ratio Next** selects jobs based on their normalized turnaround time. So as jobs arrive for execution and the processor is busy, they are placed into a list. Once the processor is ready, a calculation on each job in the list is performed. The calculation is the time spent waiting plus total runtime divided by total runtime. The job with the highest turnaround time runs next.
 
 #### FWIW
 
 Excluding the Python implementation, this was a school project. No source files were given.
 
 ## Visualizations
+
+Python portion not complete yet.
 
 ## License
 
